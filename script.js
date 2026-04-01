@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const select = document.getElementsById("colorselect");
+const select = document.getElementById("colorselect");
 const button = document.querySelector('input[type="button"]');
 
 button.addEventListener("click",function(){
